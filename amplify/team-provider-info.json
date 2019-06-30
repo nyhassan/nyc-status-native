@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "nycstatusrn-dev-20190629205343-authRole",
+            "UnauthRoleArn": "arn:aws:iam::607245252168:role/nycstatusrn-dev-20190629205343-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::607245252168:role/nycstatusrn-dev-20190629205343-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "nycstatusrn-dev-20190629205343-deployment",
+            "UnauthRoleName": "nycstatusrn-dev-20190629205343-unauthRole",
+            "StackName": "nycstatusrn-dev-20190629205343",
+            "StackId": "arn:aws:cloudformation:us-east-1:607245252168:stack/nycstatusrn-dev-20190629205343/8230f640-9ad1-11e9-a493-0eee516a945a"
+        }
+    }
+}
